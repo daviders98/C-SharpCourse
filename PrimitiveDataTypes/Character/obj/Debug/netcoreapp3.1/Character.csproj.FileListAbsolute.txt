@@ -1,0 +1,12 @@
+/Users/DavidAlex/Projects/PrimitiveDataTypes/Character/obj/Debug/netcoreapp3.1/Character.csprojAssemblyReference.cache
+/Users/DavidAlex/Projects/PrimitiveDataTypes/Character/obj/Debug/netcoreapp3.1/Character.AssemblyInfoInputs.cache
+/Users/DavidAlex/Projects/PrimitiveDataTypes/Character/obj/Debug/netcoreapp3.1/Character.AssemblyInfo.cs
+/Users/DavidAlex/Projects/PrimitiveDataTypes/Character/obj/Debug/netcoreapp3.1/Character.csproj.CoreCompileInputs.cache
+/Users/DavidAlex/Projects/PrimitiveDataTypes/Character/bin/Debug/netcoreapp3.1/Character.deps.json
+/Users/DavidAlex/Projects/PrimitiveDataTypes/Character/bin/Debug/netcoreapp3.1/Character.runtimeconfig.json
+/Users/DavidAlex/Projects/PrimitiveDataTypes/Character/bin/Debug/netcoreapp3.1/Character.runtimeconfig.dev.json
+/Users/DavidAlex/Projects/PrimitiveDataTypes/Character/bin/Debug/netcoreapp3.1/Character.dll
+/Users/DavidAlex/Projects/PrimitiveDataTypes/Character/bin/Debug/netcoreapp3.1/Character.pdb
+/Users/DavidAlex/Projects/PrimitiveDataTypes/Character/obj/Debug/netcoreapp3.1/Character.dll
+/Users/DavidAlex/Projects/PrimitiveDataTypes/Character/obj/Debug/netcoreapp3.1/Character.pdb
+/Users/DavidAlex/Projects/PrimitiveDataTypes/Character/obj/Debug/netcoreapp3.1/Character.genruntimeconfig.cache

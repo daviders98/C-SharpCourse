@@ -1,0 +1,12 @@
+/Users/DavidAlex/Projects/Arrays/4.ReversingDelete/bin/Debug/netcoreapp3.1/4.ReversingDelete.deps.json
+/Users/DavidAlex/Projects/Arrays/4.ReversingDelete/bin/Debug/netcoreapp3.1/4.ReversingDelete.runtimeconfig.json
+/Users/DavidAlex/Projects/Arrays/4.ReversingDelete/bin/Debug/netcoreapp3.1/4.ReversingDelete.runtimeconfig.dev.json
+/Users/DavidAlex/Projects/Arrays/4.ReversingDelete/bin/Debug/netcoreapp3.1/4.ReversingDelete.dll
+/Users/DavidAlex/Projects/Arrays/4.ReversingDelete/bin/Debug/netcoreapp3.1/4.ReversingDelete.pdb
+/Users/DavidAlex/Projects/Arrays/4.ReversingDelete/obj/Debug/netcoreapp3.1/4.ReversingDelete.csprojAssemblyReference.cache
+/Users/DavidAlex/Projects/Arrays/4.ReversingDelete/obj/Debug/netcoreapp3.1/4.ReversingDelete.AssemblyInfoInputs.cache
+/Users/DavidAlex/Projects/Arrays/4.ReversingDelete/obj/Debug/netcoreapp3.1/4.ReversingDelete.AssemblyInfo.cs
+/Users/DavidAlex/Projects/Arrays/4.ReversingDelete/obj/Debug/netcoreapp3.1/4.ReversingDelete.csproj.CoreCompileInputs.cache
+/Users/DavidAlex/Projects/Arrays/4.ReversingDelete/obj/Debug/netcoreapp3.1/4.ReversingDelete.dll
+/Users/DavidAlex/Projects/Arrays/4.ReversingDelete/obj/Debug/netcoreapp3.1/4.ReversingDelete.pdb
+/Users/DavidAlex/Projects/Arrays/4.ReversingDelete/obj/Debug/netcoreapp3.1/4.ReversingDelete.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/DavidAlex/Projects/Loops/2.DoWhile/bin/Debug/netcoreapp3.1/2.DoWhile.deps.json
+/Users/DavidAlex/Projects/Loops/2.DoWhile/bin/Debug/netcoreapp3.1/2.DoWhile.runtimeconfig.json
+/Users/DavidAlex/Projects/Loops/2.DoWhile/bin/Debug/netcoreapp3.1/2.DoWhile.runtimeconfig.dev.json
+/Users/DavidAlex/Projects/Loops/2.DoWhile/bin/Debug/netcoreapp3.1/2.DoWhile.dll
+/Users/DavidAlex/Projects/Loops/2.DoWhile/bin/Debug/netcoreapp3.1/2.DoWhile.pdb
+/Users/DavidAlex/Projects/Loops/2.DoWhile/obj/Debug/netcoreapp3.1/2.DoWhile.csprojAssemblyReference.cache
+/Users/DavidAlex/Projects/Loops/2.DoWhile/obj/Debug/netcoreapp3.1/2.DoWhile.AssemblyInfoInputs.cache
+/Users/DavidAlex/Projects/Loops/2.DoWhile/obj/Debug/netcoreapp3.1/2.DoWhile.AssemblyInfo.cs
+/Users/DavidAlex/Projects/Loops/2.DoWhile/obj/Debug/netcoreapp3.1/2.DoWhile.csproj.CoreCompileInputs.cache
+/Users/DavidAlex/Projects/Loops/2.DoWhile/obj/Debug/netcoreapp3.1/2.DoWhile.dll
+/Users/DavidAlex/Projects/Loops/2.DoWhile/obj/Debug/netcoreapp3.1/2.DoWhile.pdb
+/Users/DavidAlex/Projects/Loops/2.DoWhile/obj/Debug/netcoreapp3.1/2.DoWhile.genruntimeconfig.cache

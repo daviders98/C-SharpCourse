@@ -1,0 +1,12 @@
+/Users/DavidAlex/Projects/ConditionalStatements/6.Switch/obj/Debug/netcoreapp3.1/6.Switch.csprojAssemblyReference.cache
+/Users/DavidAlex/Projects/ConditionalStatements/6.Switch/obj/Debug/netcoreapp3.1/6.Switch.AssemblyInfoInputs.cache
+/Users/DavidAlex/Projects/ConditionalStatements/6.Switch/obj/Debug/netcoreapp3.1/6.Switch.AssemblyInfo.cs
+/Users/DavidAlex/Projects/ConditionalStatements/6.Switch/obj/Debug/netcoreapp3.1/6.Switch.csproj.CoreCompileInputs.cache
+/Users/DavidAlex/Projects/ConditionalStatements/6.Switch/bin/Debug/netcoreapp3.1/6.Switch.deps.json
+/Users/DavidAlex/Projects/ConditionalStatements/6.Switch/bin/Debug/netcoreapp3.1/6.Switch.runtimeconfig.json
+/Users/DavidAlex/Projects/ConditionalStatements/6.Switch/bin/Debug/netcoreapp3.1/6.Switch.runtimeconfig.dev.json
+/Users/DavidAlex/Projects/ConditionalStatements/6.Switch/bin/Debug/netcoreapp3.1/6.Switch.dll
+/Users/DavidAlex/Projects/ConditionalStatements/6.Switch/bin/Debug/netcoreapp3.1/6.Switch.pdb
+/Users/DavidAlex/Projects/ConditionalStatements/6.Switch/obj/Debug/netcoreapp3.1/6.Switch.dll
+/Users/DavidAlex/Projects/ConditionalStatements/6.Switch/obj/Debug/netcoreapp3.1/6.Switch.pdb
+/Users/DavidAlex/Projects/ConditionalStatements/6.Switch/obj/Debug/netcoreapp3.1/6.Switch.genruntimeconfig.cache

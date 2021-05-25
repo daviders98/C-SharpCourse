@@ -1,0 +1,12 @@
+/Users/DavidAlex/Projects/Exceptions/2.MultipleExceptions/bin/Debug/netcoreapp3.1/2.MultipleExceptions.deps.json
+/Users/DavidAlex/Projects/Exceptions/2.MultipleExceptions/bin/Debug/netcoreapp3.1/2.MultipleExceptions.runtimeconfig.json
+/Users/DavidAlex/Projects/Exceptions/2.MultipleExceptions/bin/Debug/netcoreapp3.1/2.MultipleExceptions.runtimeconfig.dev.json
+/Users/DavidAlex/Projects/Exceptions/2.MultipleExceptions/bin/Debug/netcoreapp3.1/2.MultipleExceptions.dll
+/Users/DavidAlex/Projects/Exceptions/2.MultipleExceptions/bin/Debug/netcoreapp3.1/2.MultipleExceptions.pdb
+/Users/DavidAlex/Projects/Exceptions/2.MultipleExceptions/obj/Debug/netcoreapp3.1/2.MultipleExceptions.csprojAssemblyReference.cache
+/Users/DavidAlex/Projects/Exceptions/2.MultipleExceptions/obj/Debug/netcoreapp3.1/2.MultipleExceptions.AssemblyInfoInputs.cache
+/Users/DavidAlex/Projects/Exceptions/2.MultipleExceptions/obj/Debug/netcoreapp3.1/2.MultipleExceptions.AssemblyInfo.cs
+/Users/DavidAlex/Projects/Exceptions/2.MultipleExceptions/obj/Debug/netcoreapp3.1/2.MultipleExceptions.csproj.CoreCompileInputs.cache
+/Users/DavidAlex/Projects/Exceptions/2.MultipleExceptions/obj/Debug/netcoreapp3.1/2.MultipleExceptions.dll
+/Users/DavidAlex/Projects/Exceptions/2.MultipleExceptions/obj/Debug/netcoreapp3.1/2.MultipleExceptions.pdb
+/Users/DavidAlex/Projects/Exceptions/2.MultipleExceptions/obj/Debug/netcoreapp3.1/2.MultipleExceptions.genruntimeconfig.cache

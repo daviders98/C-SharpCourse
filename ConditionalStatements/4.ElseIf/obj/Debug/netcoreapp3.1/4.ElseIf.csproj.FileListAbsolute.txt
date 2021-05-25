@@ -1,0 +1,12 @@
+/Users/DavidAlex/Projects/ConditionalStatements/4.ElseIf/bin/Debug/netcoreapp3.1/4.ElseIf.deps.json
+/Users/DavidAlex/Projects/ConditionalStatements/4.ElseIf/bin/Debug/netcoreapp3.1/4.ElseIf.runtimeconfig.json
+/Users/DavidAlex/Projects/ConditionalStatements/4.ElseIf/bin/Debug/netcoreapp3.1/4.ElseIf.runtimeconfig.dev.json
+/Users/DavidAlex/Projects/ConditionalStatements/4.ElseIf/bin/Debug/netcoreapp3.1/4.ElseIf.dll
+/Users/DavidAlex/Projects/ConditionalStatements/4.ElseIf/bin/Debug/netcoreapp3.1/4.ElseIf.pdb
+/Users/DavidAlex/Projects/ConditionalStatements/4.ElseIf/obj/Debug/netcoreapp3.1/4.ElseIf.csprojAssemblyReference.cache
+/Users/DavidAlex/Projects/ConditionalStatements/4.ElseIf/obj/Debug/netcoreapp3.1/4.ElseIf.AssemblyInfoInputs.cache
+/Users/DavidAlex/Projects/ConditionalStatements/4.ElseIf/obj/Debug/netcoreapp3.1/4.ElseIf.AssemblyInfo.cs
+/Users/DavidAlex/Projects/ConditionalStatements/4.ElseIf/obj/Debug/netcoreapp3.1/4.ElseIf.csproj.CoreCompileInputs.cache
+/Users/DavidAlex/Projects/ConditionalStatements/4.ElseIf/obj/Debug/netcoreapp3.1/4.ElseIf.dll
+/Users/DavidAlex/Projects/ConditionalStatements/4.ElseIf/obj/Debug/netcoreapp3.1/4.ElseIf.pdb
+/Users/DavidAlex/Projects/ConditionalStatements/4.ElseIf/obj/Debug/netcoreapp3.1/4.ElseIf.genruntimeconfig.cache

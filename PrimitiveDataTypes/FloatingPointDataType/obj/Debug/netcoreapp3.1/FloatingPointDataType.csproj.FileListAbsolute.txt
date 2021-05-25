@@ -1,0 +1,12 @@
+/Users/DavidAlex/Projects/PrimitiveDataTypes/FloatingPointDataType/obj/Debug/netcoreapp3.1/FloatingPointDataType.csprojAssemblyReference.cache
+/Users/DavidAlex/Projects/PrimitiveDataTypes/FloatingPointDataType/obj/Debug/netcoreapp3.1/FloatingPointDataType.AssemblyInfoInputs.cache
+/Users/DavidAlex/Projects/PrimitiveDataTypes/FloatingPointDataType/obj/Debug/netcoreapp3.1/FloatingPointDataType.AssemblyInfo.cs
+/Users/DavidAlex/Projects/PrimitiveDataTypes/FloatingPointDataType/obj/Debug/netcoreapp3.1/FloatingPointDataType.csproj.CoreCompileInputs.cache
+/Users/DavidAlex/Projects/PrimitiveDataTypes/FloatingPointDataType/bin/Debug/netcoreapp3.1/FloatingPointDataType.deps.json
+/Users/DavidAlex/Projects/PrimitiveDataTypes/FloatingPointDataType/bin/Debug/netcoreapp3.1/FloatingPointDataType.runtimeconfig.json
+/Users/DavidAlex/Projects/PrimitiveDataTypes/FloatingPointDataType/bin/Debug/netcoreapp3.1/FloatingPointDataType.runtimeconfig.dev.json
+/Users/DavidAlex/Projects/PrimitiveDataTypes/FloatingPointDataType/bin/Debug/netcoreapp3.1/FloatingPointDataType.dll
+/Users/DavidAlex/Projects/PrimitiveDataTypes/FloatingPointDataType/bin/Debug/netcoreapp3.1/FloatingPointDataType.pdb
+/Users/DavidAlex/Projects/PrimitiveDataTypes/FloatingPointDataType/obj/Debug/netcoreapp3.1/FloatingPointDataType.dll
+/Users/DavidAlex/Projects/PrimitiveDataTypes/FloatingPointDataType/obj/Debug/netcoreapp3.1/FloatingPointDataType.pdb
+/Users/DavidAlex/Projects/PrimitiveDataTypes/FloatingPointDataType/obj/Debug/netcoreapp3.1/FloatingPointDataType.genruntimeconfig.cache

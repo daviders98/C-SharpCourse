@@ -1,0 +1,12 @@
+/Users/DavidAlex/Projects/Methods/5.OptionalArgs/bin/Debug/netcoreapp3.1/5.OptionalArgs.deps.json
+/Users/DavidAlex/Projects/Methods/5.OptionalArgs/bin/Debug/netcoreapp3.1/5.OptionalArgs.runtimeconfig.json
+/Users/DavidAlex/Projects/Methods/5.OptionalArgs/bin/Debug/netcoreapp3.1/5.OptionalArgs.runtimeconfig.dev.json
+/Users/DavidAlex/Projects/Methods/5.OptionalArgs/bin/Debug/netcoreapp3.1/5.OptionalArgs.dll
+/Users/DavidAlex/Projects/Methods/5.OptionalArgs/bin/Debug/netcoreapp3.1/5.OptionalArgs.pdb
+/Users/DavidAlex/Projects/Methods/5.OptionalArgs/obj/Debug/netcoreapp3.1/5.OptionalArgs.csprojAssemblyReference.cache
+/Users/DavidAlex/Projects/Methods/5.OptionalArgs/obj/Debug/netcoreapp3.1/5.OptionalArgs.AssemblyInfoInputs.cache
+/Users/DavidAlex/Projects/Methods/5.OptionalArgs/obj/Debug/netcoreapp3.1/5.OptionalArgs.AssemblyInfo.cs
+/Users/DavidAlex/Projects/Methods/5.OptionalArgs/obj/Debug/netcoreapp3.1/5.OptionalArgs.csproj.CoreCompileInputs.cache
+/Users/DavidAlex/Projects/Methods/5.OptionalArgs/obj/Debug/netcoreapp3.1/5.OptionalArgs.dll
+/Users/DavidAlex/Projects/Methods/5.OptionalArgs/obj/Debug/netcoreapp3.1/5.OptionalArgs.pdb
+/Users/DavidAlex/Projects/Methods/5.OptionalArgs/obj/Debug/netcoreapp3.1/5.OptionalArgs.genruntimeconfig.cache

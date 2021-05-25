@@ -1,0 +1,12 @@
+/Users/DavidAlex/Projects/PrimitiveDataTypes/Stringtricks/bin/Debug/netcoreapp3.1/Stringtricks.deps.json
+/Users/DavidAlex/Projects/PrimitiveDataTypes/Stringtricks/bin/Debug/netcoreapp3.1/Stringtricks.runtimeconfig.json
+/Users/DavidAlex/Projects/PrimitiveDataTypes/Stringtricks/bin/Debug/netcoreapp3.1/Stringtricks.runtimeconfig.dev.json
+/Users/DavidAlex/Projects/PrimitiveDataTypes/Stringtricks/bin/Debug/netcoreapp3.1/Stringtricks.dll
+/Users/DavidAlex/Projects/PrimitiveDataTypes/Stringtricks/bin/Debug/netcoreapp3.1/Stringtricks.pdb
+/Users/DavidAlex/Projects/PrimitiveDataTypes/Stringtricks/obj/Debug/netcoreapp3.1/Stringtricks.csprojAssemblyReference.cache
+/Users/DavidAlex/Projects/PrimitiveDataTypes/Stringtricks/obj/Debug/netcoreapp3.1/Stringtricks.AssemblyInfoInputs.cache
+/Users/DavidAlex/Projects/PrimitiveDataTypes/Stringtricks/obj/Debug/netcoreapp3.1/Stringtricks.AssemblyInfo.cs
+/Users/DavidAlex/Projects/PrimitiveDataTypes/Stringtricks/obj/Debug/netcoreapp3.1/Stringtricks.csproj.CoreCompileInputs.cache
+/Users/DavidAlex/Projects/PrimitiveDataTypes/Stringtricks/obj/Debug/netcoreapp3.1/Stringtricks.dll
+/Users/DavidAlex/Projects/PrimitiveDataTypes/Stringtricks/obj/Debug/netcoreapp3.1/Stringtricks.pdb
+/Users/DavidAlex/Projects/PrimitiveDataTypes/Stringtricks/obj/Debug/netcoreapp3.1/Stringtricks.genruntimeconfig.cache

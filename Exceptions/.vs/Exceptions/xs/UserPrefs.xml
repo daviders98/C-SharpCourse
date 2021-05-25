@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{A656C675-6C49-491E-947B-B1686D1C9C24}|Default">
+  <MonoDevelop.Ide.ItemProperties.3.TryCatchFinally PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.2.MultipleExceptions PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.1.Exceptions PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="3.TryCatchFinally/Program.cs">
+    <Files>
+      <File FileName="1.Exceptions/Program.cs" Line="24" Column="61" />
+      <File FileName="2.MultipleExceptions/Program.cs" Line="50" Column="136" />
+      <File FileName="3.TryCatchFinally/Program.cs" Line="46" Column="86" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Exceptions" expanded="True">
+            <Node name="1.Exceptions" expanded="True" />
+            <Node name="2.MultipleExceptions" expanded="True" />
+            <Node name="3.TryCatchFinally" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

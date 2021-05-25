@@ -1,0 +1,12 @@
+/Users/DavidAlex/Projects/Methods/7.RefOut/bin/Debug/netcoreapp3.1/7.RefOut.deps.json
+/Users/DavidAlex/Projects/Methods/7.RefOut/bin/Debug/netcoreapp3.1/7.RefOut.runtimeconfig.json
+/Users/DavidAlex/Projects/Methods/7.RefOut/bin/Debug/netcoreapp3.1/7.RefOut.runtimeconfig.dev.json
+/Users/DavidAlex/Projects/Methods/7.RefOut/bin/Debug/netcoreapp3.1/7.RefOut.dll
+/Users/DavidAlex/Projects/Methods/7.RefOut/bin/Debug/netcoreapp3.1/7.RefOut.pdb
+/Users/DavidAlex/Projects/Methods/7.RefOut/obj/Debug/netcoreapp3.1/7.RefOut.csprojAssemblyReference.cache
+/Users/DavidAlex/Projects/Methods/7.RefOut/obj/Debug/netcoreapp3.1/7.RefOut.AssemblyInfoInputs.cache
+/Users/DavidAlex/Projects/Methods/7.RefOut/obj/Debug/netcoreapp3.1/7.RefOut.AssemblyInfo.cs
+/Users/DavidAlex/Projects/Methods/7.RefOut/obj/Debug/netcoreapp3.1/7.RefOut.csproj.CoreCompileInputs.cache
+/Users/DavidAlex/Projects/Methods/7.RefOut/obj/Debug/netcoreapp3.1/7.RefOut.dll
+/Users/DavidAlex/Projects/Methods/7.RefOut/obj/Debug/netcoreapp3.1/7.RefOut.pdb
+/Users/DavidAlex/Projects/Methods/7.RefOut/obj/Debug/netcoreapp3.1/7.RefOut.genruntimeconfig.cache

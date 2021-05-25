@@ -1,0 +1,12 @@
+/Users/DavidAlex/Projects/TheConsole/1.WriteLine/bin/Debug/netcoreapp3.1/1.WriteLine.deps.json
+/Users/DavidAlex/Projects/TheConsole/1.WriteLine/bin/Debug/netcoreapp3.1/1.WriteLine.runtimeconfig.json
+/Users/DavidAlex/Projects/TheConsole/1.WriteLine/bin/Debug/netcoreapp3.1/1.WriteLine.runtimeconfig.dev.json
+/Users/DavidAlex/Projects/TheConsole/1.WriteLine/bin/Debug/netcoreapp3.1/1.WriteLine.dll
+/Users/DavidAlex/Projects/TheConsole/1.WriteLine/bin/Debug/netcoreapp3.1/1.WriteLine.pdb
+/Users/DavidAlex/Projects/TheConsole/1.WriteLine/obj/Debug/netcoreapp3.1/1.WriteLine.csprojAssemblyReference.cache
+/Users/DavidAlex/Projects/TheConsole/1.WriteLine/obj/Debug/netcoreapp3.1/1.WriteLine.AssemblyInfoInputs.cache
+/Users/DavidAlex/Projects/TheConsole/1.WriteLine/obj/Debug/netcoreapp3.1/1.WriteLine.AssemblyInfo.cs
+/Users/DavidAlex/Projects/TheConsole/1.WriteLine/obj/Debug/netcoreapp3.1/1.WriteLine.csproj.CoreCompileInputs.cache
+/Users/DavidAlex/Projects/TheConsole/1.WriteLine/obj/Debug/netcoreapp3.1/1.WriteLine.dll
+/Users/DavidAlex/Projects/TheConsole/1.WriteLine/obj/Debug/netcoreapp3.1/1.WriteLine.pdb
+/Users/DavidAlex/Projects/TheConsole/1.WriteLine/obj/Debug/netcoreapp3.1/1.WriteLine.genruntimeconfig.cache

@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{96962D1A-E8C8-464A-A74C-3F59094058FD}|Default">
+  <MonoDevelop.Ide.ItemProperties.3.Substring PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.4.Remove PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="6.StringBuilder/Program.cs">
+    <Files>
+      <File FileName="1.SplittingStoneFree/Program.cs" Line="51" Column="15" />
+      <File FileName="2.Trimming/Program.cs" />
+      <File FileName="3.Substring/Program.cs" />
+      <File FileName="4.Remove/Program.cs" />
+      <File FileName="5.Replace/Program.cs" />
+      <File FileName="6.StringBuilder/Program.cs" Line="15" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JolyneKujo" expanded="True" selected="True">
+            <Node name="3.Substring" expanded="True" />
+            <Node name="4.Remove" expanded="True" />
+            <Node name="5.Replace" expanded="True" />
+            <Node name="6.StringBuilder" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.6.StringBuilder PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.2.Trimming PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.1.SplittingStoneFree PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.5.Replace PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

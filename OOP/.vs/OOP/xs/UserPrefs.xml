@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{9CDBDC81-445F-42CC-A41C-A47E7FE6C6CF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="1.IntroToOOP/Characters/Spellcaster/Mage.cs">
+    <Files>
+      <File FileName="1.IntroToOOP/Program.cs" Line="86" Column="61" />
+      <File FileName="1.IntroToOOP/Weapons/Sharp/Sword.cs" />
+      <File FileName="1.IntroToOOP/Tools.cs" />
+      <File FileName="1.IntroToOOP/Enumerations/Faction.cs" />
+      <File FileName="1.IntroToOOP/Characters/Character.cs" />
+      <File FileName="1.IntroToOOP/Characters/Interfaces/IDoMath.cs" />
+      <File FileName="1.IntroToOOP/Characters/Interfaces/ISpellcaster.cs" />
+      <File FileName="1.IntroToOOP/Weapons/Staff.cs" />
+      <File FileName="1.IntroToOOP/Characters/Spellcaster/Mage.cs" Line="38" Column="32" />
+      <File FileName="1.IntroToOOP/Characters/Melee/Warrior.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OOP" expanded="True">
+            <Node name="1.IntroToOOP" expanded="True">
+              <Node name="Characters" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+                <Node name="Melee" expanded="True" />
+                <Node name="Spellcaster" expanded="True">
+                  <Node name="Mage.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Weapons" expanded="True">
+                <Node name="Sharp" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.1.IntroToOOP PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

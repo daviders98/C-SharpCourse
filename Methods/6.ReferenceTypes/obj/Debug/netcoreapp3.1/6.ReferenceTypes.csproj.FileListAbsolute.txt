@@ -1,0 +1,12 @@
+/Users/DavidAlex/Projects/Methods/6.ReferenceTypes/bin/Debug/netcoreapp3.1/6.ReferenceTypes.deps.json
+/Users/DavidAlex/Projects/Methods/6.ReferenceTypes/bin/Debug/netcoreapp3.1/6.ReferenceTypes.runtimeconfig.json
+/Users/DavidAlex/Projects/Methods/6.ReferenceTypes/bin/Debug/netcoreapp3.1/6.ReferenceTypes.runtimeconfig.dev.json
+/Users/DavidAlex/Projects/Methods/6.ReferenceTypes/bin/Debug/netcoreapp3.1/6.ReferenceTypes.dll
+/Users/DavidAlex/Projects/Methods/6.ReferenceTypes/bin/Debug/netcoreapp3.1/6.ReferenceTypes.pdb
+/Users/DavidAlex/Projects/Methods/6.ReferenceTypes/obj/Debug/netcoreapp3.1/6.ReferenceTypes.csprojAssemblyReference.cache
+/Users/DavidAlex/Projects/Methods/6.ReferenceTypes/obj/Debug/netcoreapp3.1/6.ReferenceTypes.AssemblyInfoInputs.cache
+/Users/DavidAlex/Projects/Methods/6.ReferenceTypes/obj/Debug/netcoreapp3.1/6.ReferenceTypes.AssemblyInfo.cs
+/Users/DavidAlex/Projects/Methods/6.ReferenceTypes/obj/Debug/netcoreapp3.1/6.ReferenceTypes.csproj.CoreCompileInputs.cache
+/Users/DavidAlex/Projects/Methods/6.ReferenceTypes/obj/Debug/netcoreapp3.1/6.ReferenceTypes.dll
+/Users/DavidAlex/Projects/Methods/6.ReferenceTypes/obj/Debug/netcoreapp3.1/6.ReferenceTypes.pdb
+/Users/DavidAlex/Projects/Methods/6.ReferenceTypes/obj/Debug/netcoreapp3.1/6.ReferenceTypes.genruntimeconfig.cache

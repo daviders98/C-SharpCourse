@@ -1,0 +1,12 @@
+/Users/DavidAlex/Projects/TheConsole/8.CursorConsole/bin/Debug/netcoreapp3.1/8.CursorConsole.deps.json
+/Users/DavidAlex/Projects/TheConsole/8.CursorConsole/bin/Debug/netcoreapp3.1/8.CursorConsole.runtimeconfig.json
+/Users/DavidAlex/Projects/TheConsole/8.CursorConsole/bin/Debug/netcoreapp3.1/8.CursorConsole.runtimeconfig.dev.json
+/Users/DavidAlex/Projects/TheConsole/8.CursorConsole/bin/Debug/netcoreapp3.1/8.CursorConsole.dll
+/Users/DavidAlex/Projects/TheConsole/8.CursorConsole/bin/Debug/netcoreapp3.1/8.CursorConsole.pdb
+/Users/DavidAlex/Projects/TheConsole/8.CursorConsole/obj/Debug/netcoreapp3.1/8.CursorConsole.csprojAssemblyReference.cache
+/Users/DavidAlex/Projects/TheConsole/8.CursorConsole/obj/Debug/netcoreapp3.1/8.CursorConsole.AssemblyInfoInputs.cache
+/Users/DavidAlex/Projects/TheConsole/8.CursorConsole/obj/Debug/netcoreapp3.1/8.CursorConsole.AssemblyInfo.cs
+/Users/DavidAlex/Projects/TheConsole/8.CursorConsole/obj/Debug/netcoreapp3.1/8.CursorConsole.csproj.CoreCompileInputs.cache
+/Users/DavidAlex/Projects/TheConsole/8.CursorConsole/obj/Debug/netcoreapp3.1/8.CursorConsole.dll
+/Users/DavidAlex/Projects/TheConsole/8.CursorConsole/obj/Debug/netcoreapp3.1/8.CursorConsole.pdb
+/Users/DavidAlex/Projects/TheConsole/8.CursorConsole/obj/Debug/netcoreapp3.1/8.CursorConsole.genruntimeconfig.cache

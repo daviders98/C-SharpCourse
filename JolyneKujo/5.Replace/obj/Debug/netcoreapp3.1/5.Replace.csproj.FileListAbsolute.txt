@@ -1,0 +1,12 @@
+/Users/DavidAlex/Projects/JolyneKujo/5.Replace/bin/Debug/netcoreapp3.1/5.Replace.deps.json
+/Users/DavidAlex/Projects/JolyneKujo/5.Replace/bin/Debug/netcoreapp3.1/5.Replace.runtimeconfig.json
+/Users/DavidAlex/Projects/JolyneKujo/5.Replace/bin/Debug/netcoreapp3.1/5.Replace.runtimeconfig.dev.json
+/Users/DavidAlex/Projects/JolyneKujo/5.Replace/bin/Debug/netcoreapp3.1/5.Replace.dll
+/Users/DavidAlex/Projects/JolyneKujo/5.Replace/bin/Debug/netcoreapp3.1/5.Replace.pdb
+/Users/DavidAlex/Projects/JolyneKujo/5.Replace/obj/Debug/netcoreapp3.1/5.Replace.csprojAssemblyReference.cache
+/Users/DavidAlex/Projects/JolyneKujo/5.Replace/obj/Debug/netcoreapp3.1/5.Replace.AssemblyInfoInputs.cache
+/Users/DavidAlex/Projects/JolyneKujo/5.Replace/obj/Debug/netcoreapp3.1/5.Replace.AssemblyInfo.cs
+/Users/DavidAlex/Projects/JolyneKujo/5.Replace/obj/Debug/netcoreapp3.1/5.Replace.csproj.CoreCompileInputs.cache
+/Users/DavidAlex/Projects/JolyneKujo/5.Replace/obj/Debug/netcoreapp3.1/5.Replace.dll
+/Users/DavidAlex/Projects/JolyneKujo/5.Replace/obj/Debug/netcoreapp3.1/5.Replace.pdb
+/Users/DavidAlex/Projects/JolyneKujo/5.Replace/obj/Debug/netcoreapp3.1/5.Replace.genruntimeconfig.cache

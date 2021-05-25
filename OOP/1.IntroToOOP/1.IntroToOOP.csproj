@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_1.IntroToOOP</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Characters\" />
+    <Folder Include="Characters\Melee\" />
+    <Folder Include="Weapons\" />
+    <Folder Include="Weapons\Sharp\" />
+    <Folder Include="Enumerations\" />
+    <Folder Include="Characters\Spellcaster\" />
+    <Folder Include="Characters\Interfaces\" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,12 @@
+/Users/DavidAlex/Projects/Loops/4.ForExamples/bin/Debug/netcoreapp3.1/4.ForExamples.deps.json
+/Users/DavidAlex/Projects/Loops/4.ForExamples/bin/Debug/netcoreapp3.1/4.ForExamples.runtimeconfig.json
+/Users/DavidAlex/Projects/Loops/4.ForExamples/bin/Debug/netcoreapp3.1/4.ForExamples.runtimeconfig.dev.json
+/Users/DavidAlex/Projects/Loops/4.ForExamples/bin/Debug/netcoreapp3.1/4.ForExamples.dll
+/Users/DavidAlex/Projects/Loops/4.ForExamples/bin/Debug/netcoreapp3.1/4.ForExamples.pdb
+/Users/DavidAlex/Projects/Loops/4.ForExamples/obj/Debug/netcoreapp3.1/4.ForExamples.csprojAssemblyReference.cache
+/Users/DavidAlex/Projects/Loops/4.ForExamples/obj/Debug/netcoreapp3.1/4.ForExamples.AssemblyInfoInputs.cache
+/Users/DavidAlex/Projects/Loops/4.ForExamples/obj/Debug/netcoreapp3.1/4.ForExamples.AssemblyInfo.cs
+/Users/DavidAlex/Projects/Loops/4.ForExamples/obj/Debug/netcoreapp3.1/4.ForExamples.csproj.CoreCompileInputs.cache
+/Users/DavidAlex/Projects/Loops/4.ForExamples/obj/Debug/netcoreapp3.1/4.ForExamples.dll
+/Users/DavidAlex/Projects/Loops/4.ForExamples/obj/Debug/netcoreapp3.1/4.ForExamples.pdb
+/Users/DavidAlex/Projects/Loops/4.ForExamples/obj/Debug/netcoreapp3.1/4.ForExamples.genruntimeconfig.cache

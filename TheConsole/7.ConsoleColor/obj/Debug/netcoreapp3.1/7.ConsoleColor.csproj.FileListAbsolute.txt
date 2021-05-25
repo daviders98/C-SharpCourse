@@ -1,0 +1,12 @@
+/Users/DavidAlex/Projects/TheConsole/7.ConsoleColor/bin/Debug/netcoreapp3.1/7.ConsoleColor.deps.json
+/Users/DavidAlex/Projects/TheConsole/7.ConsoleColor/bin/Debug/netcoreapp3.1/7.ConsoleColor.runtimeconfig.json
+/Users/DavidAlex/Projects/TheConsole/7.ConsoleColor/bin/Debug/netcoreapp3.1/7.ConsoleColor.runtimeconfig.dev.json
+/Users/DavidAlex/Projects/TheConsole/7.ConsoleColor/bin/Debug/netcoreapp3.1/7.ConsoleColor.dll
+/Users/DavidAlex/Projects/TheConsole/7.ConsoleColor/bin/Debug/netcoreapp3.1/7.ConsoleColor.pdb
+/Users/DavidAlex/Projects/TheConsole/7.ConsoleColor/obj/Debug/netcoreapp3.1/7.ConsoleColor.csprojAssemblyReference.cache
+/Users/DavidAlex/Projects/TheConsole/7.ConsoleColor/obj/Debug/netcoreapp3.1/7.ConsoleColor.AssemblyInfoInputs.cache
+/Users/DavidAlex/Projects/TheConsole/7.ConsoleColor/obj/Debug/netcoreapp3.1/7.ConsoleColor.AssemblyInfo.cs
+/Users/DavidAlex/Projects/TheConsole/7.ConsoleColor/obj/Debug/netcoreapp3.1/7.ConsoleColor.csproj.CoreCompileInputs.cache
+/Users/DavidAlex/Projects/TheConsole/7.ConsoleColor/obj/Debug/netcoreapp3.1/7.ConsoleColor.dll
+/Users/DavidAlex/Projects/TheConsole/7.ConsoleColor/obj/Debug/netcoreapp3.1/7.ConsoleColor.pdb
+/Users/DavidAlex/Projects/TheConsole/7.ConsoleColor/obj/Debug/netcoreapp3.1/7.ConsoleColor.genruntimeconfig.cache

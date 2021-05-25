@@ -1,0 +1,12 @@
+/Users/DavidAlex/Projects/OperatorsAndExpressions/2.Assignment/bin/Debug/netcoreapp3.1/2.Assignment.deps.json
+/Users/DavidAlex/Projects/OperatorsAndExpressions/2.Assignment/bin/Debug/netcoreapp3.1/2.Assignment.runtimeconfig.json
+/Users/DavidAlex/Projects/OperatorsAndExpressions/2.Assignment/bin/Debug/netcoreapp3.1/2.Assignment.runtimeconfig.dev.json
+/Users/DavidAlex/Projects/OperatorsAndExpressions/2.Assignment/bin/Debug/netcoreapp3.1/2.Assignment.dll
+/Users/DavidAlex/Projects/OperatorsAndExpressions/2.Assignment/bin/Debug/netcoreapp3.1/2.Assignment.pdb
+/Users/DavidAlex/Projects/OperatorsAndExpressions/2.Assignment/obj/Debug/netcoreapp3.1/2.Assignment.csprojAssemblyReference.cache
+/Users/DavidAlex/Projects/OperatorsAndExpressions/2.Assignment/obj/Debug/netcoreapp3.1/2.Assignment.AssemblyInfoInputs.cache
+/Users/DavidAlex/Projects/OperatorsAndExpressions/2.Assignment/obj/Debug/netcoreapp3.1/2.Assignment.AssemblyInfo.cs
+/Users/DavidAlex/Projects/OperatorsAndExpressions/2.Assignment/obj/Debug/netcoreapp3.1/2.Assignment.csproj.CoreCompileInputs.cache
+/Users/DavidAlex/Projects/OperatorsAndExpressions/2.Assignment/obj/Debug/netcoreapp3.1/2.Assignment.dll
+/Users/DavidAlex/Projects/OperatorsAndExpressions/2.Assignment/obj/Debug/netcoreapp3.1/2.Assignment.pdb
+/Users/DavidAlex/Projects/OperatorsAndExpressions/2.Assignment/obj/Debug/netcoreapp3.1/2.Assignment.genruntimeconfig.cache

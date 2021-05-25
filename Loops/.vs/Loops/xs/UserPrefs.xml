@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{3FBA2F3A-C213-4DE2-8559-BE332F584920}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="6.NestedLoopsEx/Program.cs">
+    <Files>
+      <File FileName="1.IntroToLoops/Program.cs" Line="74" Column="51" />
+      <File FileName="2.DoWhile/Program.cs" Line="23" Column="71" />
+      <File FileName="ForLoop/Program.cs" Line="29" Column="10" />
+      <File FileName="4.ForExamples/Program.cs" Line="31" Column="35" />
+      <File FileName="5.ForEach/Program.cs" Line="28" Column="33" />
+      <File FileName="6.NestedLoopsEx/Program.cs" Line="24" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Loops" expanded="True">
+            <Node name="1.IntroToLoops" expanded="True" />
+            <Node name="3.ForLoop" expanded="True" />
+            <Node name="6.NestedLoopsEx" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.3.ForLoop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.1.IntroToLoops PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.2.DoWhile PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.6.NestedLoopsEx PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.5.ForEach PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.4.ForExamples PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

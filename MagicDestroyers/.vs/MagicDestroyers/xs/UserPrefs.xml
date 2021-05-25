@@ -1,0 +1,62 @@
+﻿<Properties StartupConfiguration="{502893AB-47EE-47B8-92AB-8218463678A5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MagicDestroyersClass/Characters/Interfaces/IDefend.cs">
+    <Files>
+      <File FileName="MagicDestroyersClass/Program.cs" Line="54" Column="83" IsPinned="True" />
+      <File FileName="MagicDestroyersClass/Armors/Cloth/ClothRobe.cs" />
+      <File FileName="MagicDestroyersClass/Armors/Leather/LeatherVest.cs" />
+      <File FileName="MagicDestroyersClass/Armors/Mail/Chainlink.cs" />
+      <File FileName="MagicDestroyersClass/Characters/Melee/Assasin.cs" />
+      <File FileName="MagicDestroyersClass/Characters/Melee/Knight.cs" />
+      <File FileName="MagicDestroyersClass/Characters/Melee/Warrior.cs" Line="61" Column="22" />
+      <File FileName="MagicDestroyersClass/Characters/SpellCasters/Druid.cs" />
+      <File FileName="MagicDestroyersClass/Characters/SpellCasters/Mage.cs" Line="53" Column="23" />
+      <File FileName="MagicDestroyersClass/Characters/SpellCasters/Necromancer.cs" />
+      <File FileName="MagicDestroyersClass/Weapons/Blunt/Hammer.cs" />
+      <File FileName="MagicDestroyersClass/Weapons/Blunt/Staff.cs" />
+      <File FileName="MagicDestroyersClass/Weapons/Sharp/Axe.cs" />
+      <File FileName="MagicDestroyersClass/Weapons/Sharp/Sword.cs" />
+      <File FileName="MagicDestroyersClass/InfoHandler.cs" />
+      <File FileName="MagicDestroyersClass/Characters/Character.cs" Line="139" Column="42" />
+      <File FileName="MagicDestroyersClass/Characters/Melee/Melee.cs" />
+      <File FileName="MagicDestroyersClass/Characters/SpellCasters/SpellCaster.cs" />
+      <File FileName="MagicDestroyersClass/Weapons/Weapon.cs" Line="29" Column="1" />
+      <File FileName="MagicDestroyersClass/Weapons/Blunt/Blunt.cs" />
+      <File FileName="MagicDestroyersClass/Weapons/Sharp/Sharp.cs" />
+      <File FileName="MagicDestroyersClass/Characters/Interfaces/IAttack.cs" Line="6" Column="21" />
+      <File FileName="MagicDestroyersClass/Characters/Interfaces/IDefend.cs" Line="6" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MagicDestroyers" expanded="True">
+            <Node name="MagicDestroyersClass" expanded="True">
+              <Node name="Armors" expanded="True">
+                <Node name="Cloth" expanded="True" />
+                <Node name="Leather" expanded="True" />
+                <Node name="Mail" expanded="True" />
+              </Node>
+              <Node name="Characters" expanded="True">
+                <Node name="Interfaces" expanded="True">
+                  <Node name="IDefend.cs" selected="True" />
+                </Node>
+                <Node name="Melee" expanded="True" />
+                <Node name="SpellCasters" expanded="True" />
+              </Node>
+              <Node name="Weapons" expanded="True">
+                <Node name="Blunt" expanded="True" />
+                <Node name="Sharp" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MagicDestroyersClass PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

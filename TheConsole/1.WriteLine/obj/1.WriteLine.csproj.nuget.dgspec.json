@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/DavidAlex/Projects/TheConsole/1.WriteLine/1.WriteLine.csproj": {}
+  },
+  "projects": {
+    "/Users/DavidAlex/Projects/TheConsole/1.WriteLine/1.WriteLine.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/DavidAlex/Projects/TheConsole/1.WriteLine/1.WriteLine.csproj",
+        "projectName": "1.WriteLine",
+        "projectPath": "/Users/DavidAlex/Projects/TheConsole/1.WriteLine/1.WriteLine.csproj",
+        "packagesPath": "/Users/DavidAlex/.nuget/packages/",
+        "outputPath": "/Users/DavidAlex/Projects/TheConsole/1.WriteLine/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/DavidAlex/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

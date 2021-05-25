@@ -1,0 +1,12 @@
+/Users/DavidAlex/Projects/PrimitiveDataTypes/Converting/bin/Debug/netcoreapp3.1/11.Converting.deps.json
+/Users/DavidAlex/Projects/PrimitiveDataTypes/Converting/bin/Debug/netcoreapp3.1/11.Converting.runtimeconfig.json
+/Users/DavidAlex/Projects/PrimitiveDataTypes/Converting/bin/Debug/netcoreapp3.1/11.Converting.runtimeconfig.dev.json
+/Users/DavidAlex/Projects/PrimitiveDataTypes/Converting/bin/Debug/netcoreapp3.1/11.Converting.dll
+/Users/DavidAlex/Projects/PrimitiveDataTypes/Converting/bin/Debug/netcoreapp3.1/11.Converting.pdb
+/Users/DavidAlex/Projects/PrimitiveDataTypes/Converting/obj/Debug/netcoreapp3.1/11.Converting.csprojAssemblyReference.cache
+/Users/DavidAlex/Projects/PrimitiveDataTypes/Converting/obj/Debug/netcoreapp3.1/11.Converting.AssemblyInfoInputs.cache
+/Users/DavidAlex/Projects/PrimitiveDataTypes/Converting/obj/Debug/netcoreapp3.1/11.Converting.AssemblyInfo.cs
+/Users/DavidAlex/Projects/PrimitiveDataTypes/Converting/obj/Debug/netcoreapp3.1/11.Converting.csproj.CoreCompileInputs.cache
+/Users/DavidAlex/Projects/PrimitiveDataTypes/Converting/obj/Debug/netcoreapp3.1/11.Converting.dll
+/Users/DavidAlex/Projects/PrimitiveDataTypes/Converting/obj/Debug/netcoreapp3.1/11.Converting.pdb
+/Users/DavidAlex/Projects/PrimitiveDataTypes/Converting/obj/Debug/netcoreapp3.1/11.Converting.genruntimeconfig.cache

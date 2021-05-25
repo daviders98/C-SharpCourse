@@ -1,0 +1,12 @@
+/Users/DavidAlex/Projects/Arrays/6.SelectionSort/bin/Debug/netcoreapp3.1/6.SelectionSort.deps.json
+/Users/DavidAlex/Projects/Arrays/6.SelectionSort/bin/Debug/netcoreapp3.1/6.SelectionSort.runtimeconfig.json
+/Users/DavidAlex/Projects/Arrays/6.SelectionSort/bin/Debug/netcoreapp3.1/6.SelectionSort.runtimeconfig.dev.json
+/Users/DavidAlex/Projects/Arrays/6.SelectionSort/bin/Debug/netcoreapp3.1/6.SelectionSort.dll
+/Users/DavidAlex/Projects/Arrays/6.SelectionSort/bin/Debug/netcoreapp3.1/6.SelectionSort.pdb
+/Users/DavidAlex/Projects/Arrays/6.SelectionSort/obj/Debug/netcoreapp3.1/6.SelectionSort.csprojAssemblyReference.cache
+/Users/DavidAlex/Projects/Arrays/6.SelectionSort/obj/Debug/netcoreapp3.1/6.SelectionSort.AssemblyInfoInputs.cache
+/Users/DavidAlex/Projects/Arrays/6.SelectionSort/obj/Debug/netcoreapp3.1/6.SelectionSort.AssemblyInfo.cs
+/Users/DavidAlex/Projects/Arrays/6.SelectionSort/obj/Debug/netcoreapp3.1/6.SelectionSort.csproj.CoreCompileInputs.cache
+/Users/DavidAlex/Projects/Arrays/6.SelectionSort/obj/Debug/netcoreapp3.1/6.SelectionSort.dll
+/Users/DavidAlex/Projects/Arrays/6.SelectionSort/obj/Debug/netcoreapp3.1/6.SelectionSort.pdb
+/Users/DavidAlex/Projects/Arrays/6.SelectionSort/obj/Debug/netcoreapp3.1/6.SelectionSort.genruntimeconfig.cache

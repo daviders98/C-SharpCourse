@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{A0216C5E-9AE2-4F1A-ACC5-F6A93F4D47D0}|Default">
+  <MonoDevelop.Ide.ItemProperties.6.ReferenceTypes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.3.OverloadingMethods PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="7.RefOut/Program.cs">
+    <Files>
+      <File FileName="2.ReturnMethods/Program.cs" Line="17" Column="14" />
+      <File FileName="../ConditionalStatements/NestedIf/Program.cs" Line="77" Column="57" />
+      <File FileName="3.OverloadingMethods/Program.cs" Line="10" Column="53" />
+      <File FileName="VarNumArgs/Program.cs" Line="51" Column="1" />
+      <File FileName="5.OptionalArgs/Program.cs" Line="10" Column="40" />
+      <File FileName="6.ReferenceTypes/Program.cs" Line="15" Column="16" />
+      <File FileName="7.RefOut/Program.cs" Line="25" Column="44" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Methods" expanded="True">
+            <Node name="1.IntroToMethods" expanded="True" />
+            <Node name="5.OptionalArgs" expanded="True" />
+            <Node name="7.RefOut" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.5.OptionalArgs PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.4.VarNumArgs PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.1.IntroToMethods FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.2.ReturnMethods PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.7.RefOut PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

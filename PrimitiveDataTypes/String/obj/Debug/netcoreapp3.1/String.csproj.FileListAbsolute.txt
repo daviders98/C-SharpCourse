@@ -1,0 +1,12 @@
+/Users/DavidAlex/Projects/PrimitiveDataTypes/String/bin/Debug/netcoreapp3.1/String.deps.json
+/Users/DavidAlex/Projects/PrimitiveDataTypes/String/bin/Debug/netcoreapp3.1/String.runtimeconfig.json
+/Users/DavidAlex/Projects/PrimitiveDataTypes/String/bin/Debug/netcoreapp3.1/String.runtimeconfig.dev.json
+/Users/DavidAlex/Projects/PrimitiveDataTypes/String/bin/Debug/netcoreapp3.1/String.dll
+/Users/DavidAlex/Projects/PrimitiveDataTypes/String/bin/Debug/netcoreapp3.1/String.pdb
+/Users/DavidAlex/Projects/PrimitiveDataTypes/String/obj/Debug/netcoreapp3.1/String.csprojAssemblyReference.cache
+/Users/DavidAlex/Projects/PrimitiveDataTypes/String/obj/Debug/netcoreapp3.1/String.AssemblyInfoInputs.cache
+/Users/DavidAlex/Projects/PrimitiveDataTypes/String/obj/Debug/netcoreapp3.1/String.AssemblyInfo.cs
+/Users/DavidAlex/Projects/PrimitiveDataTypes/String/obj/Debug/netcoreapp3.1/String.csproj.CoreCompileInputs.cache
+/Users/DavidAlex/Projects/PrimitiveDataTypes/String/obj/Debug/netcoreapp3.1/String.dll
+/Users/DavidAlex/Projects/PrimitiveDataTypes/String/obj/Debug/netcoreapp3.1/String.pdb
+/Users/DavidAlex/Projects/PrimitiveDataTypes/String/obj/Debug/netcoreapp3.1/String.genruntimeconfig.cache

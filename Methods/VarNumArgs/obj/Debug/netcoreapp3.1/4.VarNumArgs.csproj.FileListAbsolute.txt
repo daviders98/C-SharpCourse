@@ -1,0 +1,12 @@
+/Users/DavidAlex/Projects/Methods/VarNumArgs/bin/Debug/netcoreapp3.1/4.VarNumArgs.deps.json
+/Users/DavidAlex/Projects/Methods/VarNumArgs/bin/Debug/netcoreapp3.1/4.VarNumArgs.runtimeconfig.json
+/Users/DavidAlex/Projects/Methods/VarNumArgs/bin/Debug/netcoreapp3.1/4.VarNumArgs.runtimeconfig.dev.json
+/Users/DavidAlex/Projects/Methods/VarNumArgs/bin/Debug/netcoreapp3.1/4.VarNumArgs.dll
+/Users/DavidAlex/Projects/Methods/VarNumArgs/bin/Debug/netcoreapp3.1/4.VarNumArgs.pdb
+/Users/DavidAlex/Projects/Methods/VarNumArgs/obj/Debug/netcoreapp3.1/4.VarNumArgs.csprojAssemblyReference.cache
+/Users/DavidAlex/Projects/Methods/VarNumArgs/obj/Debug/netcoreapp3.1/4.VarNumArgs.AssemblyInfoInputs.cache
+/Users/DavidAlex/Projects/Methods/VarNumArgs/obj/Debug/netcoreapp3.1/4.VarNumArgs.AssemblyInfo.cs
+/Users/DavidAlex/Projects/Methods/VarNumArgs/obj/Debug/netcoreapp3.1/4.VarNumArgs.csproj.CoreCompileInputs.cache
+/Users/DavidAlex/Projects/Methods/VarNumArgs/obj/Debug/netcoreapp3.1/4.VarNumArgs.dll
+/Users/DavidAlex/Projects/Methods/VarNumArgs/obj/Debug/netcoreapp3.1/4.VarNumArgs.pdb
+/Users/DavidAlex/Projects/Methods/VarNumArgs/obj/Debug/netcoreapp3.1/4.VarNumArgs.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/DavidAlex/Projects/Loops/5.ForEach/bin/Debug/netcoreapp3.1/5.ForEach.deps.json
+/Users/DavidAlex/Projects/Loops/5.ForEach/bin/Debug/netcoreapp3.1/5.ForEach.runtimeconfig.json
+/Users/DavidAlex/Projects/Loops/5.ForEach/bin/Debug/netcoreapp3.1/5.ForEach.runtimeconfig.dev.json
+/Users/DavidAlex/Projects/Loops/5.ForEach/bin/Debug/netcoreapp3.1/5.ForEach.dll
+/Users/DavidAlex/Projects/Loops/5.ForEach/bin/Debug/netcoreapp3.1/5.ForEach.pdb
+/Users/DavidAlex/Projects/Loops/5.ForEach/obj/Debug/netcoreapp3.1/5.ForEach.csprojAssemblyReference.cache
+/Users/DavidAlex/Projects/Loops/5.ForEach/obj/Debug/netcoreapp3.1/5.ForEach.AssemblyInfoInputs.cache
+/Users/DavidAlex/Projects/Loops/5.ForEach/obj/Debug/netcoreapp3.1/5.ForEach.AssemblyInfo.cs
+/Users/DavidAlex/Projects/Loops/5.ForEach/obj/Debug/netcoreapp3.1/5.ForEach.csproj.CoreCompileInputs.cache
+/Users/DavidAlex/Projects/Loops/5.ForEach/obj/Debug/netcoreapp3.1/5.ForEach.dll
+/Users/DavidAlex/Projects/Loops/5.ForEach/obj/Debug/netcoreapp3.1/5.ForEach.pdb
+/Users/DavidAlex/Projects/Loops/5.ForEach/obj/Debug/netcoreapp3.1/5.ForEach.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/DavidAlex/Projects/TheConsole/6.ReadKey/bin/Debug/netcoreapp3.1/6.ReadKey.deps.json
+/Users/DavidAlex/Projects/TheConsole/6.ReadKey/bin/Debug/netcoreapp3.1/6.ReadKey.runtimeconfig.json
+/Users/DavidAlex/Projects/TheConsole/6.ReadKey/bin/Debug/netcoreapp3.1/6.ReadKey.runtimeconfig.dev.json
+/Users/DavidAlex/Projects/TheConsole/6.ReadKey/bin/Debug/netcoreapp3.1/6.ReadKey.dll
+/Users/DavidAlex/Projects/TheConsole/6.ReadKey/bin/Debug/netcoreapp3.1/6.ReadKey.pdb
+/Users/DavidAlex/Projects/TheConsole/6.ReadKey/obj/Debug/netcoreapp3.1/6.ReadKey.csprojAssemblyReference.cache
+/Users/DavidAlex/Projects/TheConsole/6.ReadKey/obj/Debug/netcoreapp3.1/6.ReadKey.AssemblyInfoInputs.cache
+/Users/DavidAlex/Projects/TheConsole/6.ReadKey/obj/Debug/netcoreapp3.1/6.ReadKey.AssemblyInfo.cs
+/Users/DavidAlex/Projects/TheConsole/6.ReadKey/obj/Debug/netcoreapp3.1/6.ReadKey.csproj.CoreCompileInputs.cache
+/Users/DavidAlex/Projects/TheConsole/6.ReadKey/obj/Debug/netcoreapp3.1/6.ReadKey.dll
+/Users/DavidAlex/Projects/TheConsole/6.ReadKey/obj/Debug/netcoreapp3.1/6.ReadKey.pdb
+/Users/DavidAlex/Projects/TheConsole/6.ReadKey/obj/Debug/netcoreapp3.1/6.ReadKey.genruntimeconfig.cache

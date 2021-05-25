@@ -1,0 +1,12 @@
+/Users/DavidAlex/Projects/Exceptions/3.TryCatchFinally/bin/Debug/netcoreapp3.1/3.TryCatchFinally.deps.json
+/Users/DavidAlex/Projects/Exceptions/3.TryCatchFinally/bin/Debug/netcoreapp3.1/3.TryCatchFinally.runtimeconfig.json
+/Users/DavidAlex/Projects/Exceptions/3.TryCatchFinally/bin/Debug/netcoreapp3.1/3.TryCatchFinally.runtimeconfig.dev.json
+/Users/DavidAlex/Projects/Exceptions/3.TryCatchFinally/bin/Debug/netcoreapp3.1/3.TryCatchFinally.dll
+/Users/DavidAlex/Projects/Exceptions/3.TryCatchFinally/bin/Debug/netcoreapp3.1/3.TryCatchFinally.pdb
+/Users/DavidAlex/Projects/Exceptions/3.TryCatchFinally/obj/Debug/netcoreapp3.1/3.TryCatchFinally.csprojAssemblyReference.cache
+/Users/DavidAlex/Projects/Exceptions/3.TryCatchFinally/obj/Debug/netcoreapp3.1/3.TryCatchFinally.AssemblyInfoInputs.cache
+/Users/DavidAlex/Projects/Exceptions/3.TryCatchFinally/obj/Debug/netcoreapp3.1/3.TryCatchFinally.AssemblyInfo.cs
+/Users/DavidAlex/Projects/Exceptions/3.TryCatchFinally/obj/Debug/netcoreapp3.1/3.TryCatchFinally.csproj.CoreCompileInputs.cache
+/Users/DavidAlex/Projects/Exceptions/3.TryCatchFinally/obj/Debug/netcoreapp3.1/3.TryCatchFinally.dll
+/Users/DavidAlex/Projects/Exceptions/3.TryCatchFinally/obj/Debug/netcoreapp3.1/3.TryCatchFinally.pdb
+/Users/DavidAlex/Projects/Exceptions/3.TryCatchFinally/obj/Debug/netcoreapp3.1/3.TryCatchFinally.genruntimeconfig.cache

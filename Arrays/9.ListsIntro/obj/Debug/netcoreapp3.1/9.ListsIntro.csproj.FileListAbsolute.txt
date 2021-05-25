@@ -1,0 +1,12 @@
+/Users/DavidAlex/Projects/Arrays/9.ListsIntro/bin/Debug/netcoreapp3.1/9.ListsIntro.deps.json
+/Users/DavidAlex/Projects/Arrays/9.ListsIntro/bin/Debug/netcoreapp3.1/9.ListsIntro.runtimeconfig.json
+/Users/DavidAlex/Projects/Arrays/9.ListsIntro/bin/Debug/netcoreapp3.1/9.ListsIntro.runtimeconfig.dev.json
+/Users/DavidAlex/Projects/Arrays/9.ListsIntro/bin/Debug/netcoreapp3.1/9.ListsIntro.dll
+/Users/DavidAlex/Projects/Arrays/9.ListsIntro/bin/Debug/netcoreapp3.1/9.ListsIntro.pdb
+/Users/DavidAlex/Projects/Arrays/9.ListsIntro/obj/Debug/netcoreapp3.1/9.ListsIntro.csprojAssemblyReference.cache
+/Users/DavidAlex/Projects/Arrays/9.ListsIntro/obj/Debug/netcoreapp3.1/9.ListsIntro.AssemblyInfoInputs.cache
+/Users/DavidAlex/Projects/Arrays/9.ListsIntro/obj/Debug/netcoreapp3.1/9.ListsIntro.AssemblyInfo.cs
+/Users/DavidAlex/Projects/Arrays/9.ListsIntro/obj/Debug/netcoreapp3.1/9.ListsIntro.csproj.CoreCompileInputs.cache
+/Users/DavidAlex/Projects/Arrays/9.ListsIntro/obj/Debug/netcoreapp3.1/9.ListsIntro.dll
+/Users/DavidAlex/Projects/Arrays/9.ListsIntro/obj/Debug/netcoreapp3.1/9.ListsIntro.pdb
+/Users/DavidAlex/Projects/Arrays/9.ListsIntro/obj/Debug/netcoreapp3.1/9.ListsIntro.genruntimeconfig.cache

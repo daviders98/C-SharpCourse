@@ -1,0 +1,12 @@
+/Users/DavidAlex/Projects/Methods/2.ReturnMethods/bin/Debug/netcoreapp3.1/2.ReturnMethods.deps.json
+/Users/DavidAlex/Projects/Methods/2.ReturnMethods/bin/Debug/netcoreapp3.1/2.ReturnMethods.runtimeconfig.json
+/Users/DavidAlex/Projects/Methods/2.ReturnMethods/bin/Debug/netcoreapp3.1/2.ReturnMethods.runtimeconfig.dev.json
+/Users/DavidAlex/Projects/Methods/2.ReturnMethods/bin/Debug/netcoreapp3.1/2.ReturnMethods.dll
+/Users/DavidAlex/Projects/Methods/2.ReturnMethods/bin/Debug/netcoreapp3.1/2.ReturnMethods.pdb
+/Users/DavidAlex/Projects/Methods/2.ReturnMethods/obj/Debug/netcoreapp3.1/2.ReturnMethods.csprojAssemblyReference.cache
+/Users/DavidAlex/Projects/Methods/2.ReturnMethods/obj/Debug/netcoreapp3.1/2.ReturnMethods.AssemblyInfoInputs.cache
+/Users/DavidAlex/Projects/Methods/2.ReturnMethods/obj/Debug/netcoreapp3.1/2.ReturnMethods.AssemblyInfo.cs
+/Users/DavidAlex/Projects/Methods/2.ReturnMethods/obj/Debug/netcoreapp3.1/2.ReturnMethods.csproj.CoreCompileInputs.cache
+/Users/DavidAlex/Projects/Methods/2.ReturnMethods/obj/Debug/netcoreapp3.1/2.ReturnMethods.dll
+/Users/DavidAlex/Projects/Methods/2.ReturnMethods/obj/Debug/netcoreapp3.1/2.ReturnMethods.pdb
+/Users/DavidAlex/Projects/Methods/2.ReturnMethods/obj/Debug/netcoreapp3.1/2.ReturnMethods.genruntimeconfig.cache

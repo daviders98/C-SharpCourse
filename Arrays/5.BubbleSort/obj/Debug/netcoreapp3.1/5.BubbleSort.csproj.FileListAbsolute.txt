@@ -1,0 +1,12 @@
+/Users/DavidAlex/Projects/Arrays/5.BubbleSort/bin/Debug/netcoreapp3.1/5.BubbleSort.deps.json
+/Users/DavidAlex/Projects/Arrays/5.BubbleSort/bin/Debug/netcoreapp3.1/5.BubbleSort.runtimeconfig.json
+/Users/DavidAlex/Projects/Arrays/5.BubbleSort/bin/Debug/netcoreapp3.1/5.BubbleSort.runtimeconfig.dev.json
+/Users/DavidAlex/Projects/Arrays/5.BubbleSort/bin/Debug/netcoreapp3.1/5.BubbleSort.dll
+/Users/DavidAlex/Projects/Arrays/5.BubbleSort/bin/Debug/netcoreapp3.1/5.BubbleSort.pdb
+/Users/DavidAlex/Projects/Arrays/5.BubbleSort/obj/Debug/netcoreapp3.1/5.BubbleSort.csprojAssemblyReference.cache
+/Users/DavidAlex/Projects/Arrays/5.BubbleSort/obj/Debug/netcoreapp3.1/5.BubbleSort.AssemblyInfoInputs.cache
+/Users/DavidAlex/Projects/Arrays/5.BubbleSort/obj/Debug/netcoreapp3.1/5.BubbleSort.AssemblyInfo.cs
+/Users/DavidAlex/Projects/Arrays/5.BubbleSort/obj/Debug/netcoreapp3.1/5.BubbleSort.csproj.CoreCompileInputs.cache
+/Users/DavidAlex/Projects/Arrays/5.BubbleSort/obj/Debug/netcoreapp3.1/5.BubbleSort.dll
+/Users/DavidAlex/Projects/Arrays/5.BubbleSort/obj/Debug/netcoreapp3.1/5.BubbleSort.pdb
+/Users/DavidAlex/Projects/Arrays/5.BubbleSort/obj/Debug/netcoreapp3.1/5.BubbleSort.genruntimeconfig.cache

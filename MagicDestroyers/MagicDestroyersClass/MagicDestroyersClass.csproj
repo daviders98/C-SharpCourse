@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Characters\" />
+    <Folder Include="Characters\Melee\" />
+    <Folder Include="Characters\SpellCasters\" />
+    <Folder Include="Armors\" />
+    <Folder Include="Armors\Cloth\" />
+    <Folder Include="Armors\Leather\" />
+    <Folder Include="Armors\Mail\" />
+    <Folder Include="Weapons\" />
+    <Folder Include="Weapons\Sharp\" />
+    <Folder Include="Weapons\Blunt\" />
+    <Folder Include="Characters\Interfaces\" />
+  </ItemGroup>
+</Project>

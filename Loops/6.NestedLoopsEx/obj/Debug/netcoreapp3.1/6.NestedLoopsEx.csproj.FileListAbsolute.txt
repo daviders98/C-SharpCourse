@@ -1,0 +1,12 @@
+/Users/DavidAlex/Projects/Loops/6.NestedLoopsEx/bin/Debug/netcoreapp3.1/6.NestedLoopsEx.deps.json
+/Users/DavidAlex/Projects/Loops/6.NestedLoopsEx/bin/Debug/netcoreapp3.1/6.NestedLoopsEx.runtimeconfig.json
+/Users/DavidAlex/Projects/Loops/6.NestedLoopsEx/bin/Debug/netcoreapp3.1/6.NestedLoopsEx.runtimeconfig.dev.json
+/Users/DavidAlex/Projects/Loops/6.NestedLoopsEx/bin/Debug/netcoreapp3.1/6.NestedLoopsEx.dll
+/Users/DavidAlex/Projects/Loops/6.NestedLoopsEx/bin/Debug/netcoreapp3.1/6.NestedLoopsEx.pdb
+/Users/DavidAlex/Projects/Loops/6.NestedLoopsEx/obj/Debug/netcoreapp3.1/6.NestedLoopsEx.csprojAssemblyReference.cache
+/Users/DavidAlex/Projects/Loops/6.NestedLoopsEx/obj/Debug/netcoreapp3.1/6.NestedLoopsEx.AssemblyInfoInputs.cache
+/Users/DavidAlex/Projects/Loops/6.NestedLoopsEx/obj/Debug/netcoreapp3.1/6.NestedLoopsEx.AssemblyInfo.cs
+/Users/DavidAlex/Projects/Loops/6.NestedLoopsEx/obj/Debug/netcoreapp3.1/6.NestedLoopsEx.csproj.CoreCompileInputs.cache
+/Users/DavidAlex/Projects/Loops/6.NestedLoopsEx/obj/Debug/netcoreapp3.1/6.NestedLoopsEx.dll
+/Users/DavidAlex/Projects/Loops/6.NestedLoopsEx/obj/Debug/netcoreapp3.1/6.NestedLoopsEx.pdb
+/Users/DavidAlex/Projects/Loops/6.NestedLoopsEx/obj/Debug/netcoreapp3.1/6.NestedLoopsEx.genruntimeconfig.cache

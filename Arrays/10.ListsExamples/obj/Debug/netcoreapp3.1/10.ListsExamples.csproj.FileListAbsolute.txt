@@ -1,0 +1,12 @@
+/Users/DavidAlex/Projects/Arrays/10.ListsExamples/bin/Debug/netcoreapp3.1/10.ListsExamples.deps.json
+/Users/DavidAlex/Projects/Arrays/10.ListsExamples/bin/Debug/netcoreapp3.1/10.ListsExamples.runtimeconfig.json
+/Users/DavidAlex/Projects/Arrays/10.ListsExamples/bin/Debug/netcoreapp3.1/10.ListsExamples.runtimeconfig.dev.json
+/Users/DavidAlex/Projects/Arrays/10.ListsExamples/bin/Debug/netcoreapp3.1/10.ListsExamples.dll
+/Users/DavidAlex/Projects/Arrays/10.ListsExamples/bin/Debug/netcoreapp3.1/10.ListsExamples.pdb
+/Users/DavidAlex/Projects/Arrays/10.ListsExamples/obj/Debug/netcoreapp3.1/10.ListsExamples.csprojAssemblyReference.cache
+/Users/DavidAlex/Projects/Arrays/10.ListsExamples/obj/Debug/netcoreapp3.1/10.ListsExamples.AssemblyInfoInputs.cache
+/Users/DavidAlex/Projects/Arrays/10.ListsExamples/obj/Debug/netcoreapp3.1/10.ListsExamples.AssemblyInfo.cs
+/Users/DavidAlex/Projects/Arrays/10.ListsExamples/obj/Debug/netcoreapp3.1/10.ListsExamples.csproj.CoreCompileInputs.cache
+/Users/DavidAlex/Projects/Arrays/10.ListsExamples/obj/Debug/netcoreapp3.1/10.ListsExamples.dll
+/Users/DavidAlex/Projects/Arrays/10.ListsExamples/obj/Debug/netcoreapp3.1/10.ListsExamples.pdb
+/Users/DavidAlex/Projects/Arrays/10.ListsExamples/obj/Debug/netcoreapp3.1/10.ListsExamples.genruntimeconfig.cache

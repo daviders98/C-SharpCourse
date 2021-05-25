@@ -1,0 +1,12 @@
+/Users/DavidAlex/Projects/OperatorsAndExpressions/Arithmetic/bin/Debug/netcoreapp3.1/Arithmetic.deps.json
+/Users/DavidAlex/Projects/OperatorsAndExpressions/Arithmetic/bin/Debug/netcoreapp3.1/Arithmetic.runtimeconfig.json
+/Users/DavidAlex/Projects/OperatorsAndExpressions/Arithmetic/bin/Debug/netcoreapp3.1/Arithmetic.runtimeconfig.dev.json
+/Users/DavidAlex/Projects/OperatorsAndExpressions/Arithmetic/bin/Debug/netcoreapp3.1/Arithmetic.dll
+/Users/DavidAlex/Projects/OperatorsAndExpressions/Arithmetic/bin/Debug/netcoreapp3.1/Arithmetic.pdb
+/Users/DavidAlex/Projects/OperatorsAndExpressions/Arithmetic/obj/Debug/netcoreapp3.1/Arithmetic.csprojAssemblyReference.cache
+/Users/DavidAlex/Projects/OperatorsAndExpressions/Arithmetic/obj/Debug/netcoreapp3.1/Arithmetic.AssemblyInfoInputs.cache
+/Users/DavidAlex/Projects/OperatorsAndExpressions/Arithmetic/obj/Debug/netcoreapp3.1/Arithmetic.AssemblyInfo.cs
+/Users/DavidAlex/Projects/OperatorsAndExpressions/Arithmetic/obj/Debug/netcoreapp3.1/Arithmetic.csproj.CoreCompileInputs.cache
+/Users/DavidAlex/Projects/OperatorsAndExpressions/Arithmetic/obj/Debug/netcoreapp3.1/Arithmetic.dll
+/Users/DavidAlex/Projects/OperatorsAndExpressions/Arithmetic/obj/Debug/netcoreapp3.1/Arithmetic.pdb
+/Users/DavidAlex/Projects/OperatorsAndExpressions/Arithmetic/obj/Debug/netcoreapp3.1/Arithmetic.genruntimeconfig.cache

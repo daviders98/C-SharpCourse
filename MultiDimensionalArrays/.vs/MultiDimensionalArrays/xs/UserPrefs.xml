@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{5F5270AA-8EA2-4B1C-BC72-D72213DFF323}|Default">
+  <MonoDevelop.Ide.ItemProperties.5.MultiDimColors PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="4.Matrices/Program.cs">
+    <Files>
+      <File FileName="2.MultiDimExamples/Program.cs" Line="18" Column="68" />
+      <File FileName="1.IntroToMDArrays/Program.cs" Line="27" Column="1" />
+      <File FileName="3.StringMDAChallenge/Program.cs" Line="11" Column="24" />
+      <File FileName="4.Matrices/Program.cs" Line="80" Column="29" />
+      <File FileName="5.MultiDimColors/Program.cs" Line="24" Column="43" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MultiDimensionalArrays" expanded="True">
+            <Node name="1.IntroToMDArrays" expanded="True" />
+            <Node name="2.MultiDimExamples" expanded="True" />
+            <Node name="3.StringMDAChallenge" expanded="True" />
+            <Node name="4.Matrices" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.4.Matrices PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.3.StringMDAChallenge PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.2.MultiDimExamples PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.1.IntroToMDArrays PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

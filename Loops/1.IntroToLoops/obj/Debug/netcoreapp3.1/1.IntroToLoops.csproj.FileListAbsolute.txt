@@ -1,0 +1,12 @@
+/Users/DavidAlex/Projects/Loops/1.IntroToLoops/bin/Debug/netcoreapp3.1/1.IntroToLoops.deps.json
+/Users/DavidAlex/Projects/Loops/1.IntroToLoops/bin/Debug/netcoreapp3.1/1.IntroToLoops.runtimeconfig.json
+/Users/DavidAlex/Projects/Loops/1.IntroToLoops/bin/Debug/netcoreapp3.1/1.IntroToLoops.runtimeconfig.dev.json
+/Users/DavidAlex/Projects/Loops/1.IntroToLoops/bin/Debug/netcoreapp3.1/1.IntroToLoops.dll
+/Users/DavidAlex/Projects/Loops/1.IntroToLoops/bin/Debug/netcoreapp3.1/1.IntroToLoops.pdb
+/Users/DavidAlex/Projects/Loops/1.IntroToLoops/obj/Debug/netcoreapp3.1/1.IntroToLoops.csprojAssemblyReference.cache
+/Users/DavidAlex/Projects/Loops/1.IntroToLoops/obj/Debug/netcoreapp3.1/1.IntroToLoops.AssemblyInfoInputs.cache
+/Users/DavidAlex/Projects/Loops/1.IntroToLoops/obj/Debug/netcoreapp3.1/1.IntroToLoops.AssemblyInfo.cs
+/Users/DavidAlex/Projects/Loops/1.IntroToLoops/obj/Debug/netcoreapp3.1/1.IntroToLoops.csproj.CoreCompileInputs.cache
+/Users/DavidAlex/Projects/Loops/1.IntroToLoops/obj/Debug/netcoreapp3.1/1.IntroToLoops.dll
+/Users/DavidAlex/Projects/Loops/1.IntroToLoops/obj/Debug/netcoreapp3.1/1.IntroToLoops.pdb
+/Users/DavidAlex/Projects/Loops/1.IntroToLoops/obj/Debug/netcoreapp3.1/1.IntroToLoops.genruntimeconfig.cache

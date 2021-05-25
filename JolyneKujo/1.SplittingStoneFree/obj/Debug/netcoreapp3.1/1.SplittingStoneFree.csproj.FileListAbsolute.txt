@@ -1,0 +1,15 @@
+/Users/DavidAlex/Projects/JolyneKujo/1.SplittingStoneFree/bin/Debug/netcoreapp3.1/1.SplittingStoneFree.deps.json
+/Users/DavidAlex/Projects/JolyneKujo/1.SplittingStoneFree/bin/Debug/netcoreapp3.1/1.SplittingStoneFree.runtimeconfig.json
+/Users/DavidAlex/Projects/JolyneKujo/1.SplittingStoneFree/bin/Debug/netcoreapp3.1/1.SplittingStoneFree.runtimeconfig.dev.json
+/Users/DavidAlex/Projects/JolyneKujo/1.SplittingStoneFree/bin/Debug/netcoreapp3.1/1.SplittingStoneFree.dll
+/Users/DavidAlex/Projects/JolyneKujo/1.SplittingStoneFree/bin/Debug/netcoreapp3.1/1.SplittingStoneFree.pdb
+/Users/DavidAlex/Projects/JolyneKujo/1.SplittingStoneFree/obj/Debug/netcoreapp3.1/1.SplittingStoneFree.csprojAssemblyReference.cache
+/Users/DavidAlex/Projects/JolyneKujo/1.SplittingStoneFree/obj/Debug/netcoreapp3.1/1.SplittingStoneFree.AssemblyInfoInputs.cache
+/Users/DavidAlex/Projects/JolyneKujo/1.SplittingStoneFree/obj/Debug/netcoreapp3.1/1.SplittingStoneFree.AssemblyInfo.cs
+/Users/DavidAlex/Projects/JolyneKujo/1.SplittingStoneFree/obj/Debug/netcoreapp3.1/1.SplittingStoneFree.csproj.CoreCompileInputs.cache
+/Users/DavidAlex/Projects/JolyneKujo/1.SplittingStoneFree/obj/Debug/netcoreapp3.1/1.SplittingStoneFree.dll
+/Users/DavidAlex/Projects/JolyneKujo/1.SplittingStoneFree/obj/Debug/netcoreapp3.1/1.SplittingStoneFree.pdb
+/Users/DavidAlex/Projects/JolyneKujo/1.SplittingStoneFree/obj/Debug/netcoreapp3.1/1.SplittingStoneFree.genruntimeconfig.cache
+/Users/DavidAlex/Projects/JolyneKujo/1.SplittingStoneFree/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/DavidAlex/Projects/JolyneKujo/1.SplittingStoneFree/bin/Debug/netcoreapp3.1/WebDriver.dll
+/Users/DavidAlex/Projects/JolyneKujo/1.SplittingStoneFree/obj/Debug/netcoreapp3.1/1.SplittingStoneFree.csproj.CopyComplete

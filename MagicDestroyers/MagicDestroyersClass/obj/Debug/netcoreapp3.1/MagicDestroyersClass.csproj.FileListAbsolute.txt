@@ -1,0 +1,12 @@
+/Users/DavidAlex/Projects/MagicDestroyers/MagicDestroyersClass/obj/Debug/netcoreapp3.1/MagicDestroyersClass.csprojAssemblyReference.cache
+/Users/DavidAlex/Projects/MagicDestroyers/MagicDestroyersClass/obj/Debug/netcoreapp3.1/MagicDestroyersClass.AssemblyInfoInputs.cache
+/Users/DavidAlex/Projects/MagicDestroyers/MagicDestroyersClass/obj/Debug/netcoreapp3.1/MagicDestroyersClass.AssemblyInfo.cs
+/Users/DavidAlex/Projects/MagicDestroyers/MagicDestroyersClass/obj/Debug/netcoreapp3.1/MagicDestroyersClass.csproj.CoreCompileInputs.cache
+/Users/DavidAlex/Projects/MagicDestroyers/MagicDestroyersClass/bin/Debug/netcoreapp3.1/MagicDestroyersClass.deps.json
+/Users/DavidAlex/Projects/MagicDestroyers/MagicDestroyersClass/bin/Debug/netcoreapp3.1/MagicDestroyersClass.runtimeconfig.json
+/Users/DavidAlex/Projects/MagicDestroyers/MagicDestroyersClass/bin/Debug/netcoreapp3.1/MagicDestroyersClass.runtimeconfig.dev.json
+/Users/DavidAlex/Projects/MagicDestroyers/MagicDestroyersClass/bin/Debug/netcoreapp3.1/MagicDestroyersClass.dll
+/Users/DavidAlex/Projects/MagicDestroyers/MagicDestroyersClass/bin/Debug/netcoreapp3.1/MagicDestroyersClass.pdb
+/Users/DavidAlex/Projects/MagicDestroyers/MagicDestroyersClass/obj/Debug/netcoreapp3.1/MagicDestroyersClass.dll
+/Users/DavidAlex/Projects/MagicDestroyers/MagicDestroyersClass/obj/Debug/netcoreapp3.1/MagicDestroyersClass.pdb
+/Users/DavidAlex/Projects/MagicDestroyers/MagicDestroyersClass/obj/Debug/netcoreapp3.1/MagicDestroyersClass.genruntimeconfig.cache

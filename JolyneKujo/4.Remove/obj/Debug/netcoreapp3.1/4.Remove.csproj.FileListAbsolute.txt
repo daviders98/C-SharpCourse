@@ -1,0 +1,12 @@
+/Users/DavidAlex/Projects/JolyneKujo/4.Remove/bin/Debug/netcoreapp3.1/4.Remove.deps.json
+/Users/DavidAlex/Projects/JolyneKujo/4.Remove/bin/Debug/netcoreapp3.1/4.Remove.runtimeconfig.json
+/Users/DavidAlex/Projects/JolyneKujo/4.Remove/bin/Debug/netcoreapp3.1/4.Remove.runtimeconfig.dev.json
+/Users/DavidAlex/Projects/JolyneKujo/4.Remove/bin/Debug/netcoreapp3.1/4.Remove.dll
+/Users/DavidAlex/Projects/JolyneKujo/4.Remove/bin/Debug/netcoreapp3.1/4.Remove.pdb
+/Users/DavidAlex/Projects/JolyneKujo/4.Remove/obj/Debug/netcoreapp3.1/4.Remove.csprojAssemblyReference.cache
+/Users/DavidAlex/Projects/JolyneKujo/4.Remove/obj/Debug/netcoreapp3.1/4.Remove.AssemblyInfoInputs.cache
+/Users/DavidAlex/Projects/JolyneKujo/4.Remove/obj/Debug/netcoreapp3.1/4.Remove.AssemblyInfo.cs
+/Users/DavidAlex/Projects/JolyneKujo/4.Remove/obj/Debug/netcoreapp3.1/4.Remove.csproj.CoreCompileInputs.cache
+/Users/DavidAlex/Projects/JolyneKujo/4.Remove/obj/Debug/netcoreapp3.1/4.Remove.dll
+/Users/DavidAlex/Projects/JolyneKujo/4.Remove/obj/Debug/netcoreapp3.1/4.Remove.pdb
+/Users/DavidAlex/Projects/JolyneKujo/4.Remove/obj/Debug/netcoreapp3.1/4.Remove.genruntimeconfig.cache

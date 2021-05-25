@@ -1,0 +1,12 @@
+/Users/DavidAlex/Projects/PrimitiveDataTypes/ToString/obj/Debug/netcoreapp3.1/ToString.csprojAssemblyReference.cache
+/Users/DavidAlex/Projects/PrimitiveDataTypes/ToString/obj/Debug/netcoreapp3.1/ToString.AssemblyInfoInputs.cache
+/Users/DavidAlex/Projects/PrimitiveDataTypes/ToString/obj/Debug/netcoreapp3.1/ToString.AssemblyInfo.cs
+/Users/DavidAlex/Projects/PrimitiveDataTypes/ToString/obj/Debug/netcoreapp3.1/ToString.csproj.CoreCompileInputs.cache
+/Users/DavidAlex/Projects/PrimitiveDataTypes/ToString/bin/Debug/netcoreapp3.1/ToString.deps.json
+/Users/DavidAlex/Projects/PrimitiveDataTypes/ToString/bin/Debug/netcoreapp3.1/ToString.runtimeconfig.json
+/Users/DavidAlex/Projects/PrimitiveDataTypes/ToString/bin/Debug/netcoreapp3.1/ToString.runtimeconfig.dev.json
+/Users/DavidAlex/Projects/PrimitiveDataTypes/ToString/bin/Debug/netcoreapp3.1/ToString.dll
+/Users/DavidAlex/Projects/PrimitiveDataTypes/ToString/bin/Debug/netcoreapp3.1/ToString.pdb
+/Users/DavidAlex/Projects/PrimitiveDataTypes/ToString/obj/Debug/netcoreapp3.1/ToString.dll
+/Users/DavidAlex/Projects/PrimitiveDataTypes/ToString/obj/Debug/netcoreapp3.1/ToString.pdb
+/Users/DavidAlex/Projects/PrimitiveDataTypes/ToString/obj/Debug/netcoreapp3.1/ToString.genruntimeconfig.cache

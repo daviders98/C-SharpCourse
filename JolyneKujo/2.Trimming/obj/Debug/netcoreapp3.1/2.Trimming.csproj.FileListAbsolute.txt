@@ -1,0 +1,12 @@
+/Users/DavidAlex/Projects/JolyneKujo/2.Trimming/bin/Debug/netcoreapp3.1/2.Trimming.deps.json
+/Users/DavidAlex/Projects/JolyneKujo/2.Trimming/bin/Debug/netcoreapp3.1/2.Trimming.runtimeconfig.json
+/Users/DavidAlex/Projects/JolyneKujo/2.Trimming/bin/Debug/netcoreapp3.1/2.Trimming.runtimeconfig.dev.json
+/Users/DavidAlex/Projects/JolyneKujo/2.Trimming/bin/Debug/netcoreapp3.1/2.Trimming.dll
+/Users/DavidAlex/Projects/JolyneKujo/2.Trimming/bin/Debug/netcoreapp3.1/2.Trimming.pdb
+/Users/DavidAlex/Projects/JolyneKujo/2.Trimming/obj/Debug/netcoreapp3.1/2.Trimming.csprojAssemblyReference.cache
+/Users/DavidAlex/Projects/JolyneKujo/2.Trimming/obj/Debug/netcoreapp3.1/2.Trimming.AssemblyInfoInputs.cache
+/Users/DavidAlex/Projects/JolyneKujo/2.Trimming/obj/Debug/netcoreapp3.1/2.Trimming.AssemblyInfo.cs
+/Users/DavidAlex/Projects/JolyneKujo/2.Trimming/obj/Debug/netcoreapp3.1/2.Trimming.csproj.CoreCompileInputs.cache
+/Users/DavidAlex/Projects/JolyneKujo/2.Trimming/obj/Debug/netcoreapp3.1/2.Trimming.dll
+/Users/DavidAlex/Projects/JolyneKujo/2.Trimming/obj/Debug/netcoreapp3.1/2.Trimming.pdb
+/Users/DavidAlex/Projects/JolyneKujo/2.Trimming/obj/Debug/netcoreapp3.1/2.Trimming.genruntimeconfig.cache
